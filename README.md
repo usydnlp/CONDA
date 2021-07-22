@@ -1,5 +1,5 @@
 # CONDA
-This repository is for CONDA dataset
+This repository is for the CONDA dataset
 
 1. How to get our CONDA dataset?
 
