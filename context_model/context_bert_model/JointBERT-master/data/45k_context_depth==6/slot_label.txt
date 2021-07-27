@@ -1,9 +1,0 @@
-PAD
-UNK
-O
-P
-C
-S
-D
-T
-SEPA
