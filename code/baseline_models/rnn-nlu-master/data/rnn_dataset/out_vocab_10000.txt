@@ -1,0 +1,11 @@
+_PAD
+_UNK
+O
+SEPA
+P
+S
+C
+T
+D
+(O
+0
