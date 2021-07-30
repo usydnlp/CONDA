@@ -1,4 +1,7 @@
-# CONDA
+## CONDA: a CONtextual Dual-Annotated dataset for in-game toxicity understanding and detection
+
+# Henry Weld, Guanghao Huang, Jean Lee, Tongshu Zhang, Kunze Wang, Xinghong Guo, Siqu Long, Josiah Poon, Soyeon Caren Han
+
 This repository is for the CONDA dataset
 
 1. How to get our CONDA dataset?
