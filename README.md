@@ -46,7 +46,7 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
       
 5. How to do data exploration?
 
-      --- The data exploration code is in graph.ipynb and line_graph.ipynb in the "code" directory
+      --- The data exploration code is in graph.ipynb and line_graph.ipynb in the "code/baseline_models" directory
 
 6. What other resources are there?
 
