@@ -22,7 +22,7 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
 
       --- three .csv files are available in the dataset folder, there are train, validation and test files. Together these make up the ~45k samples described in the paper. 
       
-      --- the test data is unlabelled, please see the CodaLab section below for more information.
+      --- the test data is unannotated, please see the CodaLab section below for more information.
       
 2. What baseline models were used in the paper?
 
