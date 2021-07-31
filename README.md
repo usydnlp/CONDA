@@ -46,7 +46,7 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
       
 5. How to draw graphs?
 
-      --- The graph code is in graph.ipynb and line_graph.ipynb
+      --- The graph code is in graph.ipynb and line_graph.ipynb inn the "code" directory
 
 6. What other resources are there?
 
