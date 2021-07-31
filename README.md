@@ -14,7 +14,7 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
 
 1. How to get our CONDA dataset?
 
-      --- get the csv file named 45k_final.csv from the folder "data". This is the datatset described in the paper.
+      --- get the csv file named 45k_final_version.csv from the folder "data". This is the datatset described in the paper.
 
       --- open the prepare_dataset.ipynb file in the Colab
       
