@@ -45,3 +45,23 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
 5. How to draw graphs?
 
       --- The graph code is in graph.ipynb and line_graph.ipynb
+
+## Codalab
+
+If you are interested in our dataset, you are welcome to join in the Codalab competition at ...
+
+## Citation
+
+`@inproceedings{weld2021CONDA,
+  title={{CONDA}: a {CON}textual {D}ual-{A}nnotated dataset for in-game toxicity understanding and detection},
+  author={Henry Weld and Guanghao Huang and Jean Lee and Tongshu Zhang and Kunze Wang and Xinghong Guo and Siqu Long and Josiah Poon and Soyeon Caren Han},
+  booktitle={Findings of ACL 2021},
+  month = aug,
+  year = {2021},
+  address = {Bangkok, Thailand},
+  publisher = "Association for Computational Linguistics"
+}`
+
+Please enjoy a video presentation covering the main points from our paper:
+
+
