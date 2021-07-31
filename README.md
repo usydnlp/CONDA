@@ -8,7 +8,11 @@ Abstract: Traditional toxicity detection models have focused on the single utter
 
 Please enjoy a video presentation covering the main points from our paper:
 
+<p align="center">
+
 [![ACL_video](https://img.youtube.com/vi/qRCPSSUuf18/0.jpg)](https://www.youtube.com/watch?v=qRCPSSUuf18)
+      
+</p>      
 
 _For any issue related to the code or data, please first search for solution in the Issues section. If your issue is not addressed there, post a comment there and we will help soon._
 
