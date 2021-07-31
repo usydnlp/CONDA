@@ -10,29 +10,17 @@ Please enjoy a video presentation covering the main points from our paper:
 
 [![ACL_video](https://img.youtube.com/vi/qRCPSSUuf18/0.jpg)](https://www.youtube.com/watch?v=qRCPSSUuf18)
 
-![An example intent/slot annotation from the CONDA (CONtextual Dual-Annotated) dataset.](/resources/figure1_ingame.png "An example intent/slot annotation from the CONDA (CONtextual Dual-Annotated) dataset.")
-
-_For any issue related to the code or data, please first search for solution in Issues section. If your issue is not addressed there, post a comment there and we will help soon._
+_For any issue related to the code or data, please first search for solution in the Issues section. If your issue is not addressed there, post a comment there and we will help soon._
 
 This repository is for the CONDA dataset as covered in our paper referenced above. 
 
 1. How to get our CONDA dataset?
 
-      --- get the csv file named 45k_final_version.csv from the folder "data". This is the datatset described in the paper.
-
-      --- open the prepare_dataset.ipynb file in the Colab
+      --- three .csv files are available in the dataset folder, there are train, validation and test files. Together these make up the ~45k samples described in the paper. 
       
-      --- run the code from the top to the auto labeling part
+      --- the test data is unlabelled, please see the CodaLab section below for more information.
       
-      --- get the csv file named 45k_final.csv
-      
-2. How to get the inputs for models?
-
-      --- use construct inputs for xxx part in the prepare_dataset.ipynb
-      
-      --- download seq.in, seq.out, label files and put them into train/valid/test folder
-
-3. How to run the baseline models?
+2. HWhat baseline models were used in the paper?
 
       --- upload the folders in the baseline_models folder to Google drive
       
@@ -42,23 +30,15 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
       
       --- run the code
       
-4. How to get model results?
-
-      --- After running the models, open the experiment_result_analysis.ipynb in Colab
-      
-      --- run the corresponding part in the ipynb file
-      
-5. How to do data exploration?
-
-      --- The data exploration code is in graph.ipynb and line_graph.ipynb in the "code/baseline_models" directory
-
-6. What other resources are there?
+3. What other resources are there?
 
       --- As described in the paper the full lexicons for word level annotation are included in the "resources" directory.
+      
+![An example intent/slot annotation from the CONDA (CONtextual Dual-Annotated) dataset.](/resources/figure1_ingame.png "An example intent/slot annotation from the CONDA (CONtextual Dual-Annotated) dataset.")
 
 ## Codalab
 
-If you are interested in our dataset, you are welcome to join in the Codalab competition at ...
+If you are interested in our dataset, you are welcome to join in our Codalab competition leaderboard which will be available in October 2021.
 
 ## Citation
 
