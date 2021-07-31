@@ -26,13 +26,15 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
       
 2. What baseline models were used in the paper?
 
-      --- Joint BERT https://github.com/monologg/JointBERT
+      --- Joint BERT, (Castellucci et al., 2019): https://github.com/monologg/JointBERT
       
-      --- Capsule NLU https://github.com/czhang99/Capsule-NLU
+      --- Capsule NN, (Zhang et al., 2019): https://github.com/czhang99/Capsule-NLU
       
-      --- Liu + Lane, rnn-lu https://github.com/HadoopIt/rnn-nlu
+      --- RNN-NLU, (Liu + Lane, 2016): https://github.com/HadoopIt/rnn-nlu
       
-      --- Goo et al https://github.com/MiuLab/SlotGated-SLU
+      --- Slot-gated, (Goo et al., 2018) https://github.com/MiuLab/SlotGated-SLU
+      
+      --- Inter-BiLSTM (Wang et al., 2018): https://github.com/ray075hl/Bi-Model-Intent-And-Slot
       
 3. What other resources are there?
 
