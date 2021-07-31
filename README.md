@@ -26,13 +26,13 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
       
 2. What baseline models were used in the paper?
 
-      --- upload the folders in the baseline_models folder to Google drive
+      --- Joint BERT https://github.com/monologg/JointBERT
       
-      --- open the ipynb files in Colab
+      --- Capsule NLU https://github.com/czhang99/Capsule-NLU
       
-      --- set the path to your own path for storing the model folder
+      --- Liu + Lane, rnn-lu https://github.com/HadoopIt/rnn-nlu
       
-      --- run the code
+      --- Goo et al https://github.com/MiuLab/SlotGated-SLU
       
 3. What other resources are there?
 
