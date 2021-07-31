@@ -30,9 +30,9 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
 
 3. How to run the baseline models?
 
-      --- upload the folders in the baseline_models folder to the Google drive
+      --- upload the folders in the baseline_models folder to Google drive
       
-      --- open the ipynb files in the Colab
+      --- open the ipynb files in Colab
       
       --- set the path to your own path for storing the model folder
       
@@ -40,7 +40,7 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
       
 4. How to get model results?
 
-      --- After running the models, open the experiment_result_analysis.ipynb in the Colab
+      --- After running the models, open the experiment_result_analysis.ipynb in Colab
       
       --- run the corresponding part in the ipynb file
       
@@ -71,5 +71,7 @@ If you are interested in our dataset, you are welcome to join in the Codalab com
 ```
 
 Please enjoy a video presentation covering the main points from our paper:
+
+[![ACL_video](https://img.youtube.com/vi/qRCPSSUuf18/0.jpg)](https://www.youtube.com/watch?v=qRCPSSUuf18)
 
 
