@@ -14,11 +14,13 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
 
 1. How to get our CONDA dataset?
 
+      --- get the csv file named 45k_final.csv from the folder "data". This is the datatset described in the paper.
+
       --- open the prepare_dataset.ipynb file in the Colab
       
       --- run the code from the top to the auto labeling part
       
-      --- get the csv file named 45k_after_slot_annotation.csv
+      --- get the csv file named 45k_final.csv
       
 2. How to get the inputs for models?
 
@@ -45,6 +47,10 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
 5. How to draw graphs?
 
       --- The graph code is in graph.ipynb and line_graph.ipynb
+
+6. What other resources are there?
+
+      --- As described in the paper the full lexicons for word level annotation are included in the "resources" directory.
 
 ## Codalab
 
