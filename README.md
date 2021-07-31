@@ -8,7 +8,7 @@ Abstract: Traditional toxicity detection models have focused on the single utter
 
 Please enjoy a video presentation covering the main points from our paper:
 
-<p align="center">
+<p align="centre">
 
 [![ACL_video](https://img.youtube.com/vi/qRCPSSUuf18/0.jpg)](https://www.youtube.com/watch?v=qRCPSSUuf18)
       
@@ -24,7 +24,7 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
       
       --- the test data is unlabelled, please see the CodaLab section below for more information.
       
-2. HWhat baseline models were used in the paper?
+2. What baseline models were used in the paper?
 
       --- upload the folders in the baseline_models folder to Google drive
       
@@ -37,8 +37,10 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
 3. What other resources are there?
 
       --- As described in the paper the full lexicons for word level annotation are included in the "resources" directory.
-      
-![An example intent/slot annotation from the CONDA (CONtextual Dual-Annotated) dataset.](/resources/figure1_ingame.png "An example intent/slot annotation from the CONDA (CONtextual Dual-Annotated) dataset.")
+
+<p align="center">
+  <img width="600" src="/resources/figure1_ingame.png">
+</p>
 
 ## Codalab
 
