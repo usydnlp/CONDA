@@ -51,13 +51,24 @@ If you are interested in our dataset, you are welcome to join in our Codalab com
 ## Citation
 
 ```
-@inproceedings{weld2021CONDA,
-  title={{CONDA}: a {CON}textual {D}ual-{A}nnotated dataset for in-game toxicity understanding and detection},
-  author={Henry Weld and Guanghao Huang and Jean Lee and Tongshu Zhang and Kunze Wang and Xinghong Guo and Siqu Long and Josiah Poon and Soyeon Caren Han},
-  booktitle={Findings of ACL 2021},
-  month = aug,
-  year = {2021},
-  address = {Bangkok, Thailand},
-  publisher = "Association for Computational Linguistics"
+@inproceedings{weld-etal-2021-conda,
+    title = "{CONDA}: a {CON}textual Dual-Annotated dataset for in-game toxicity understanding and detection",
+    author = "Weld, Henry  and
+      Huang, Guanghao  and
+      Lee, Jean  and
+      Zhang, Tongshu  and
+      Wang, Kunze  and
+      Guo, Xinghong  and
+      Long, Siqu  and
+      Poon, Josiah  and
+      Han, Caren",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-acl.213",
+    doi = "10.18653/v1/2021.findings-acl.213",
+    pages = "2406--2416",
 }
 ```
