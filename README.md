@@ -1,6 +1,7 @@
 # [CONDA: a CONtextual Dual-Annotated dataset for in-game toxicity understanding and detection](https://arxiv.org/abs/2106.06213)
 
 ## Henry Weld, Guanghao Huang, Jean Lee, Tongshu Zhang, Kunze Wang, Xinghong Guo, Siqu Long, Josiah Poon, Soyeon Caren Han (2021)
+## University of Sydney, NLP Group
 
 ## To appear at ACL-IJCNLP 2021
 
