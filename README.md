@@ -49,6 +49,11 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
 
 If you are interested in our dataset, you are welcome to join in our Codalab competition leaderboard which will be available in October 2021.
 
+### Evaluation Metrics
+**JSA**(Joint Semantic Accuracy) is used for ranking. An utterance is deemed correctly analysed only if both utterance-level and all the token-level labels including Os are correctly predicted.
+
+Besides, the f1 score of **utterance-level** E(xplicit) and I(mplicit) classes, **token-level** T(oxicity), D(ota-specific), S(game Slang) classes will be shown on the leaderboard (but not used as the ranking metric).
+
 ## Citation
 
 ```
