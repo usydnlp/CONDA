@@ -47,7 +47,7 @@ This repository is for the CONDA dataset as covered in our paper referenced abov
 
 ## Codalab
 
-If you are interested in our dataset, you are welcome to join in our Codalab competition leaderboard which will be available in October 2021.
+If you are interested in our dataset, you are welcome to join in our [Codalab competition leaderboard](https://codalab.lisn.upsaclay.fr/competitions/7827).
 
 ### Evaluation Metrics
 **JSA**(Joint Semantic Accuracy) is used for ranking. An utterance is deemed correctly analysed only if both utterance-level and all the token-level labels including Os are correctly predicted.
